@@ -1,5 +1,5 @@
 {
-    "indicatorMovement": 2,
+    "indicatorMovement": 1,
     "marqueeMovement": 1,
     "blockWon": {
         "ID": 2,
@@ -8,6 +8,6 @@
         },
         "entriesGiven": 15
     },
-    "tickRate": 0.2,
+    "tickRate": 0.1,
     "indicatorFlashTime": 4.0
 }
