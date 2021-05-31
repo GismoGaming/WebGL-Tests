@@ -1,5 +1,5 @@
 {
-    "indicatorMovement": 0,
+    "indicatorMovement": 1,
     "marqueeMovement": 1,
     "blockWon": {
         "ID": 2,
