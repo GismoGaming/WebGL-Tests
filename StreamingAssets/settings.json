@@ -1,13 +1,13 @@
 {
-    "indicatorMovement": 1,
+    "indicatorMovement": 0,
     "marqueeMovement": 1,
     "blockWon": {
-        "ID": 2,
+        "ID": 4,
         "sprite": {
             "instanceID": 16896
         },
         "entriesGiven": 15
     },
-    "tickRate": 0.1,
+    "tickRate": 0.2,
     "indicatorFlashTime": 4.0
 }
